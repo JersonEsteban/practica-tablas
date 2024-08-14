@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(210, 206, 201);
+
+}
+.header{
+    border: 1px solid rgb(16, 16, 15);
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.main{
+    border: 1px solid greenyellow;
+  
+}
+
+.footer{
+    border: 1px solid greenyellow;
+    height: 10vh;
+}
+.border{
+    border: 1px solid blue;
+}
+.background{
+    background-color: chocolate;
+}
+.menuprincipal{
+    width: 30vw;
+
+}
+.menu1{
+    display: flex;
+    justify-content: space-around;
+}
+.item{
+    list-style: none;
+}
+
+.form{
+    width: 40vw;
+    margin: auto;
+    border: 1px solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.flex{
+    display: flex;
+    flex-direction: column;
+}
